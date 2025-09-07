@@ -37,7 +37,7 @@ const AgenceBottomSection = () => {
                 <div className="last-img1 h-screen w-full relative z-20 flex justify-center items-center group cursor-pointer rounded-4xl overflow-hidden">
                     <img
                         className="h-full w-full object-cover object-[center_5%] brightness-90 group-hover:scale-[1.05] group-hover:brightness-75 transition-all duration-300"
-                        src="https://k72.ca/uploads/caseStudies/LAMAJEURE_-_Son_sur_mesure/chalaxeur-thumbnail_img-1280x960.jpg"
+                        src="https://k72.ca/uploads/caseStudies/LAMAJEURE_-_Son_sur_mesure/chalaxeur-thumbnail_img-1280x960.jpg?auto=compress&cs=tinysrgb&w=640"
                         alt=""
                     />
                     <div className="absolute inset-0 flex flex-col justify-center items-center text-white z-10 gap-3">
@@ -48,7 +48,7 @@ const AgenceBottomSection = () => {
                 <div className="last-img2 h-screen w-full relative z-20 flex justify-center items-center group cursor-pointer overflow-hidden rounded-4xl">
                     <img
                         className="h-full w-full object-cover object-[center_5%] brightness-90 group-hover:scale-[1.05] group-hover:brightness-75 transition-all duration-300"
-                        src="https://k72.ca/uploads/caseStudies/CRISIS24/crisis24_behance_1920X1200_cartes-1280x960.jpg"
+                        src="https://k72.ca/uploads/caseStudies/CRISIS24/crisis24_behance_1920X1200_cartes-1280x960.jpg?auto=compress&cs=tinysrgb&w=640"
                         alt=""
                     />
                     <div className="absolute inset-0 flex flex-col justify-center items-center text-white z-10 gap-3">
@@ -59,7 +59,7 @@ const AgenceBottomSection = () => {
                 <div className="last-img3 h-screen w-full relative z-20 flex justify-center items-center group cursor-pointer overflow-hidden rounded-4xl">
                     <img
                         className="h-full w-full object-cover object-[center_5%] brightness-90 group-hover:scale-[1.05] group-hover:brightness-75 transition-all duration-300"
-                        src="https://k72.ca/uploads/caseStudies/FRUITE/Fruite_thumbnail_bbq-1280x960.jpg"
+                        src="https://k72.ca/uploads/caseStudies/FRUITE/Fruite_thumbnail_bbq-1280x960.jpg?auto=compress&cs=tinysrgb&w=640"
                         alt=""
                     />
                     <div className="absolute inset-0 flex flex-col justify-center items-center text-white z-10 gap-3">

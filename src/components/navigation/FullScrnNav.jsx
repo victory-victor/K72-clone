@@ -181,25 +181,25 @@ const FullScrnNav = ({ FullScrNav, setFullScrNav }) => {
                         <div className="movingDivParent h-0 w-[1000vw] bg-[#d3fd50] absolute top-0 text-black cursor-pointer overflow-y-hidden">
                             <div className='movingDiv h-full w-full flex items-center'>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour tout voir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                             </div>
                         </div>
                     </div>
@@ -208,25 +208,25 @@ const FullScrnNav = ({ FullScrNav, setFullScrNav }) => {
                         <div className="movingDivParent1 h-0 w-[1000vw] bg-[#d3fd50] absolute top-0 text-black cursor-pointer overflow-y-hidden">
                             <div className='movingDiv1 h-full w-full flex items-center'>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg')] bg-cover bg-[center_top_18%] "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_18%] "></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg')] bg-cover bg-[center_top_20%]"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_20%]"></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg')] bg-cover bg-[center_top_18%] "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_18%] "></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg')] bg-cover bg-[center_top_20%]"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_20%]"></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg')] bg-cover bg-[center_top_18%] "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_18%] "></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg')] bg-cover bg-[center_top_20%]"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_20%]"></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg')] bg-cover bg-[center_top_18%] "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_18%] "></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg')] bg-cover bg-[center_top_20%]"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_20%]"></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg')] bg-cover bg-[center_top_18%] "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_18%] "></div>
                                 <h1 className='pt-4'>Pour tout savoir</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg')] bg-cover bg-[center_top_20%]"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-[center_top_20%]"></div>
 
                             </div>
                         </div>
@@ -236,25 +236,25 @@ const FullScrnNav = ({ FullScrNav, setFullScrNav }) => {
                         <div className="movingDivParent2 h-0 w-[1100vw] bg-[#d3fd50] absolute top-0 text-black cursor-pointer overflow-y-hidden">
                             <div className='movingDiv2 h-full w-full flex items-center'>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center "></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center "></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                                 <h1 className='pt-4'>Pour envoyer un fax</h1>
-                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg')] bg-cover bg-center"></div>
+                                <div className="h-22 w-55 rounded-full ml-4 mr-4 bg-[url('https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-two-hearts-drawn-together-with-one-line-outline-design-isolated-vector-png-image_50196284.jpg?auto=compress&cs=tinysrgb&w=640')] bg-cover bg-center"></div>
                             </div>
                         </div>
                     </div>

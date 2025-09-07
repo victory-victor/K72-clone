@@ -21,7 +21,7 @@ const Home = () => {
     <div>
       <div className='h-screen w-screen fixed'>
         <Video />
-        <img className='h-full w-full object-cover absolute top-0 left-0 z-20' src="https://k72.ca/uploads/vlcsnap-2021-04-21-16h11m49s996.jpg" alt="" />
+        <img className='h-full w-full object-cover absolute top-0 left-0 z-20' src="https://k72.ca/uploads/vlcsnap-2021-04-21-16h11m49s996.jpg?auto=compress&cs=tinysrgb&w=640" alt="" />
       </div>
 
       <div className="h-screen w-screen relative flex flex-col justify-between items-center p-3">

@@ -88,7 +88,7 @@ const AgenceMiddle1Section = () => {
         <div className="panel-1 h-screen w-full relative z-60 flex justify-center items-center">
           <img loading='lazy'
             className="h-full rounded-4xl relative z-20 select-none"
-            src="https://k72.ca/uploads/teamMembers/Michele_640X980-640x960.jpg"
+            src="https://k72.ca/uploads/teamMembers/Michele_640X980-640x960.jpg?auto=compress&cs=tinysrgb&w=640"
             alt=""
           />
           <div className="text1 absolute top-[27%] left-0 h-[20vh] w-[2000vw] flex items-center gap-x-[85vw] z-10 pl-[56vw] ">
@@ -219,7 +219,7 @@ const AgenceMiddle1Section = () => {
         <div className="panel-2 h-screen w-full relative z-60 flex justify-center items-center">
           <img loading='lazy'
             className="h-full rounded-4xl relative z-20 select-none"
-            src="https://k72.ca/uploads/teamMembers/joel_640X960_3-640x960.jpg"
+            src="https://k72.ca/uploads/teamMembers/joel_640X960_3-640x960.jpg?auto=compress&cs=tinysrgb&w=640"
             alt=""
           />
           <div className="text3 absolute top-[27%] left-0 h-[20vh] w-[2000vw] flex items-center gap-x-[80vw] z-10 pl-[56vw] ">

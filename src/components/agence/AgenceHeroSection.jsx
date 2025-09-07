@@ -6,20 +6,20 @@ const AgenceHeroSection = () => {
     const imgDivRef = useRef(null)
     const imgRef = useRef(null)
     const imgArray = [
-        'https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/Olivier_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/Lawrence_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/HugoJoseph_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/ChantalG_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/MyleneS_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/SophieA_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/Claire_480x640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/MEL_480X640-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/CAMILLE_480X640_2-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/MAXIME_480X640_2-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/MEGGIE_480X640_2-480x640.jpg',
-        'https://k72.ca/uploads/teamMembers/joel_480X640_3-480x640.jpg',
+        'https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/Olivier_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/Lawrence_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/HugoJoseph_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/ChantalG_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/MyleneS_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/SophieA_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/Claire_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/Michele_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/MEL_480X640-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/CAMILLE_480X640_2-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/MAXIME_480X640_2-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/MEGGIE_480X640_2-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
+        'https://k72.ca/uploads/teamMembers/joel_480X640_3-480x640.jpg?auto=compress&cs=tinysrgb&w=640',
     ]
     useGSAP(() => {
         gsap.to(imgRef.current, {
@@ -82,7 +82,7 @@ const AgenceHeroSection = () => {
         <div>
             <>
                 <div ref={imgDivRef} className="absolute top-33 left-115 h-80 w-57 z-0">
-                    <img style={{ clipPath: 'inset(0% 100% 0% 0%)' }} loading='lazy' ref={imgRef} className='h-full w-full object-cover rounded-[20px]' src="https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg" alt="" />
+                    <img style={{ clipPath: 'inset(0% 100% 0% 0%)' }} loading='lazy' ref={imgRef} className='h-full w-full object-cover rounded-[20px]' src="https://k72.ca/uploads/teamMembers/Carl_480x640-480x640.jpg?auto=compress&cs=tinysrgb&w=640" alt="" />
                 </div>
                 <div className='w-full text-center mt-[53vh] font-[font2] uppercase relative z-10'>
                     <h1 className='text-[20vw] font-bold overflow-hidden translate-y-10'><h3>Soixan7e</h3></h1>
