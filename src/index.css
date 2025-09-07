@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font1;
+  src: url(/fonts/Lausanne-300.woff2);
+}
+
+@font-face {
+  font-family: font2;
+  src: url(/fonts/Lausanne-500.woff2);
+}
+
+*::selection {
+  background-color: #d3fd50;
+  color: black;
+}
+
+body {
+  /* background-color: transparent; */
+  overflow-x: hidden
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  cursor: grab;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d3fd50;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  transform: scale(1.02);
+}
+
+img {
+  user-select: none;
+}
